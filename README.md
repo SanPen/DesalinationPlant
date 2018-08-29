@@ -1,5 +1,5 @@
-# CopperPlate
-Software for microgrid optimization in a no-grid-losses fashion also known as copper plate.
+# Desalination plant
+Software for microgrid optimization in a no-grid-losses fashion.
 
 ![](https://github.com/SanPen/CopperPlate/blob/master/pictures/Input_gui.png)
 
